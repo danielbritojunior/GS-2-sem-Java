@@ -244,7 +244,6 @@ Para consultar decisões e detalhes de implementação:
 - [`API-REST.md`](API-REST.md) — endpoints, contratos JSON, validações e códigos HTTP.
 - [`DAO-BO.md`](DAO-BO.md) — persistência, regras de negócio e testes.
 - [`MODEL-JPA.md`](MODEL-JPA.md) — entidades e mapeamento JPA.
-- [`PREPARACAO-ORACLE.md`](PREPARACAO-ORACLE.md) — preparação e cuidados com o banco.
 - [`DIAGNOSTICO-ORACLE.md`](DIAGNOSTICO-ORACLE.md) — diagnóstico da integração Oracle.
 
 ## 👨‍💻 Equipe
